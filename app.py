@@ -11,7 +11,10 @@ st.header("Courses")
 st.subheader("Data Analytics and ML ")
 st.subheader("DSA")
 
+
 st.subheader('OPP')
 
 st.button("menu_button")
+
+st.sidebar.write("Menu")
 
