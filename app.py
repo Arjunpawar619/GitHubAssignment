@@ -8,6 +8,5 @@ with c1:
     st.write(" abcd efg") 
 
 st.header("Courses")
-st.subheader("Data Analytics")
+st.subheader("Data Analytics and ML ")
 st.subheader("DSA")
-st.subheader("OPP")
