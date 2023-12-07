@@ -10,3 +10,5 @@ with c1:
 st.header("Courses")
 st.subheader("Data Analytics and ML ")
 st.subheader("DSA")
+
+st.sidebar.write("Menu")
